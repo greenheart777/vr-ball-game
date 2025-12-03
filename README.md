@@ -6,6 +6,8 @@ Includes bonus mechanics, counters, UI elements, and an extensible gameplay stru
 
 ---
 
+![Gameplay Preview](demo.gif)
+
 ## 📌 Features
 
 ### 🔹 1. VR Locomotion
